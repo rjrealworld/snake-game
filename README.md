@@ -3,7 +3,7 @@
 * Description-
   - This is a well known snake game using Python - Pygame and curser module
   
-* Preview-
+* Preview (pygame)-
   - Game start
   
   ![](https://github.com/rjrealworld/snake-game/blob/master/screenshot/Capture.PNG?raw=true)
