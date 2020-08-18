@@ -12,4 +12,4 @@
   ![](https://github.com/rjrealworld/snake-game/blob/master/screenshot/Capture1.PNG?raw=true)
   - Game over
   
-  ![](https://github.com/rjrealworld/snake-game/blob/master/screenshot/Capture2.PNG?raw=true)
+  ![](https://github.com/rjrealworld/snake-game/blob/master/screenshot/Capture3.PNG?raw=true)
